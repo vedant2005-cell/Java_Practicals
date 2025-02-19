@@ -1,4 +1,4 @@
-public class IT2023bit066 {
+ class IT2023bit066 {
     //Implement the solution for Task 1
     public static String reverse(String inpuString){
         if (inpuString.isEmpty()) {
