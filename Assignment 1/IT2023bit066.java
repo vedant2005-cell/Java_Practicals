@@ -9,7 +9,7 @@
         }
     }
 
-    //Implement the solution for Task 2
+    //Implement the solution for Task 2.
     public static int sumofDigit(int number){
         if (number==0) {
             return 0;
