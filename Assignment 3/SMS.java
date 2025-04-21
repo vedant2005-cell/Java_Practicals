@@ -110,7 +110,9 @@ public class SMS {
         for (String studentData : studentDataArray) {
             String[] data = studentData.split(",");
             if (data.length != 5) {
-                System.out.println("Invalid student record: " + studentData);
+                System.out.println("Invalid student record: " + studentData);g bloodGroup) {
+        this.name = name;
+        this.dob = dob;
                 continue;
             }
 
